@@ -15,8 +15,8 @@
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
-                <li class="rechts"><a class="right" href="#news">News</a></li>
-                <li class="rechts"><a class="right" href="#about">About</a></li>
+                <li class="rechts"><a class="right" href="#Over ons">Over ons</a></li>
+                <li class="rechts"><a class="right" href="#Stem">Stem</a></li>
             </ul>
         </nav>
     </header>
