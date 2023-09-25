@@ -57,3 +57,7 @@ button{
     border-radius: 25px;
     font-size: larger;
 }
+
+.VVD {
+    background-image: /images/vvd_logo.svg.png;
+}
