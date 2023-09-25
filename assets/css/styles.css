@@ -58,6 +58,10 @@ button{
     font-size: larger;
 }
 
-.VVD {
-    background-image: /images/vvd_logo.svg.png;
+.vvd {
+    background-image: url(//assets/images/VVD_logo.svg.png);
+}
+
+.D66 {
+    background-image: url(//assets/images/D66_logo.svg.png);
 }
