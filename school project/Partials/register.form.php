@@ -22,11 +22,11 @@
 
     <p>Emailadress</p>
     <label for="email"></label>
-    <input type="text" name="email" placeholder="Please fill in your Email adress!" required>
+    <input type="email" name="email" placeholder="Please fill in your Email adress!" required>
 
     <p>Wachtwoord</p>
     <label for="password"></label>
-    <input type="password" name="password" placeholder="Please fill in your Password here!" required>
+    <input type="password" name="password" placeholder="Please fill in your Password here!" minlength="8" required>
 
     <p>Herhaal Wachtwoord</p>
     <label for="repeat-password"></label>

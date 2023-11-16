@@ -16,11 +16,11 @@
   <form action="" method="post">
     <p>Emailadress</p>
     <label for="email"></label>
-    <input type="text" name="email" placeholder="Please fill in your Email adress!" required>
+    <input type="email" name="email" placeholder="Please fill in your Email adress!" required>
 
     <p>Wachtwoord</p>
     <label for="password"></label>
-    <input type="password" name="password" placeholder="Please fill in your Password here!" required>
+    <input type="password" name="password" placeholder="Please fill in your Password here!" minlength="8" required>
     
     <button class="submit-button" type="submit" value="Submit">Log In</button>
     <button class="submit-button"><a id="login" href="../school project/register.php">Make a account here</a></button>

@@ -15,6 +15,7 @@
     <main>
         <body>
             <button class="return"><a href="index.php">Return to Homepage</a></button><br> <br>
+            <p>Hello, <?php echo $_SESSION['firstName'] . " " . $_SESSION['middleName'] . " " . $_SESSION['lastName']; ?>!</p>
         </body>
     </main>
     <footer>
