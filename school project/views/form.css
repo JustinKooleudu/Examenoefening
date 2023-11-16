@@ -1,0 +1,57 @@
+#login{
+    color: var(--white);
+    font-weight: bold;
+}
+
+.return{
+    background-color: var(--blue);
+    border: none;
+    margin-left: 5vw;
+    font-weight: bold;
+    padding: 1vh;
+}
+
+.login-form-holder{
+    position:static;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+    background-color: var(--blue); 
+    color: var(--white);
+    min-width: 30vw;
+    max-width: 40vw;
+    padding: 5vh;
+    margin-top: 15vh;
+}
+
+.register-form-holder{
+    position:static;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+    background-color: var(--blue); 
+    color: var(--white);
+    min-width: 30vw;
+    max-width: 40vw;
+    padding: 5vh;
+    margin-top: 5vh;
+}
+
+input{
+    margin-bottom: 3vh;
+    width: 100%;
+}
+
+.submit-button{
+    background-color: var(--white);
+    color: var(--blue);
+    height: 5vh;
+    width: 50%;
+    margin-left: 10vw;
+    color: var(--blue);
+    font-weight: bold;
+}
